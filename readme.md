@@ -5,4 +5,4 @@
 ## 第二步~安装Oh my Posh主题
 `sudo apt-get`
 ## 第三步~安装Powerline字体
-下载文件
+[下载PoweLine](https://github.com/powerline/fonts.git)，解压点击install.sh安装
