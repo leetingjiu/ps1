@@ -1,4 +1,4 @@
-#this is main code
+#this is console color
 $Host.UI.RawUI.WindowTitle="Tom"
 $colors = @{}
 $colors['Variable'] = [System.ConsoleColor]::DarkCyan
