@@ -26,6 +26,6 @@
 运行install.sh
 * 卸载<br>
 运行uninstall.sh
-## 特别说明
+## 一些问题
 Q：有些特殊符号为什么显示不出来？<br>
 A：因为Windows下Oh-my-posh皮肤同Linux/MacOS下的Oh-my-zsh皮肤一样，壳shell本身需要支持Powerline字体。
