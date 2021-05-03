@@ -1,5 +1,4 @@
 # about
-# Add a new script file named profile.ps1 under the path "C:\Windows\System32\WindowsPowerShell\v1.0".
 $Host.UI.RawUI.WindowTitle="Tom"
 $colors = @{}
 $colors['Variable'] = [System.ConsoleColor]::DarkCyan
