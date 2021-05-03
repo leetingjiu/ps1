@@ -1,4 +1,4 @@
-# these are the 16 color keywords available for the console
+#these are the 16 color keywords available for the console
 Black
 #The color black.
 Blue
