@@ -1,10 +1,12 @@
 # **使用说明**
+## 效果展示
+![你好](https://github.com/leetingjiu/ps1/blob/4139a6e25b03efc7f7549870c9225bc094c45da1/oh-my-posh.jpg)
 ## 第一步~修改Console颜色
 * 安装<br>
 在路径“C:\Windows\System32\WindowsPowerShell\v1.0”下新增profile.ps1文件，写入脚本代码<br>
 详情见profile.ps1
 * 更换颜色<br>
-用颜色关键词修改PS1文件，详情见consolecolor.txt
+用颜色关键词修改ps1文件，详情见color.txt
 * 卸载<br>
 删除profile.ps1文件
 ## 第二步~安装Oh-my-posh皮肤
@@ -26,4 +28,4 @@
 运行uninstall.sh
 ## 特别说明
 Q：有些特殊符号为什么显示不出来？<br>
-A:因为Windows下Oh-my-posh皮肤同Linux/MacOS下的Oh-my-zsh皮肤一样，壳shell本身需要支持Powerline字体。
+A：因为Windows下Oh-my-posh皮肤同Linux/MacOS下的Oh-my-zsh皮肤一样，壳shell本身需要支持Powerline字体。
