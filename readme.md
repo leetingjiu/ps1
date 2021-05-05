@@ -1,6 +1,6 @@
 # **🤣使用说明🤣**
 ## 效果展示
-![你好](https://github.com/leetingjiu/ps1/blob/4139a6e25b03efc7f7549870c9225bc094c45da1/oh-my-posh.jpg)
+![你好](https://github.com/leetingjiu/ps1/blob/62a117c44f71747e8d6c6db2df3a49206bbd6481/oh-my-posh.jpg)
 ## 第一步~修改Console颜色
 * 安装<br>
 在路径“C:\Windows\System32\WindowsPowerShell\v1.0”下新增profile.ps1文件，写入脚本代码<br>
