@@ -14,7 +14,7 @@
 * 获取皮肤<br>`Get-PoshThemes`
 * 临时设置皮肤agnoster<br>`Set-PoshPrompt -Theme agnoster`
 * 永久设置皮肤agnoster<br>
-在路径“C:\Users\tom\Documents\WindowsPowerShell”下新增Microsoft.PowerShell_profile.ps1文件，写入脚本代码<br>
+在路径“C:\Users\ltj\Documents\WindowsPowerShell”下新增Microsoft.PowerShell_profile.ps1文件，写入脚本代码<br>
 详情见[Microsoft.PowerShell_profile.ps1](https://github.com/leetingjiu/ps1/blob/0c073da7126fa2703757098eea6422a8f63c96d1/Microsoft.PowerShell_profile.ps1)
 * 更新模块<br>
 `Update-Module oh-my-posh`
@@ -28,4 +28,4 @@
 运行uninstall.sh
 ## 一些问题
 Q：有些特殊符号为什么显示不出来？<br>
-A：因为Windows下Oh-my-posh皮肤同Linux/MacOS下的Oh-my-zsh皮肤一样，壳shell本身需要支持Powerline字体。
+A：因为Windows下Oh-my-posh皮肤同Linux/MacOS下的Oh-my-zsh皮肤一样，壳shell本身需要支持Powerline字体(这也是操作第三步的必要性)。
