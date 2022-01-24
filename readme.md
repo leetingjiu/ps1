@@ -14,10 +14,8 @@
 `Set-ExecutionPolicy RemoteSigned`
 * 创建配置文件<br>
 `if (!(Test-Path -Path $PROFILE )) { New-Item -Type File -Path $PROFILE -Force }`
-* 写入配置文件<br>
+* 写入脚本保存<br>
 `notepad $profile`<br>
-`Import-Module oh-my-posh
-Set-PoshPrompt -Theme nu4a`
 ## 第三步~安装nerd或powerline字体
 [下载PoweLine](https://github.com/powerline/fonts.git)，解压Zip
 * 安装<br>
