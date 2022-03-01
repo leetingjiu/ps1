@@ -11,7 +11,8 @@
 * 创建配置文件<br>`if (!(Test-Path -Path $PROFILE )) { New-Item -Type File -Path $PROFILE -Force }`
 * 写入脚本保存<br>`notepad $profile`<br>
 ## 第三步~安装nerd或powerline字体
-* 这两种字体均在github上开源，楼主使用的是DejaVuSansMono Nerd Font或Cousine Nerd Font，这两套字体支持的图标比较全。(https://github.com/leetingjiu/ps1/blob/67535c0de58547f94079b5a1ea92287de1516a4e/Meslo%20LG%20M%20DZ%20Italic%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf)。<br>[nerd字体](https://github.com/ryanoasis/nerd-fonts)<br>[powerline字体](https://github.com/powerline/fonts)<br>
+* 这两种字体均在github上开源，楼主使用的是DejaVuSansMono Nerd Font或Cousine Nerd Font，这两套字体支持的图标比较全。
+* <br>[nerd字体](https://github.com/ryanoasis/nerd-fonts)<br>[powerline字体](https://github.com/powerline/fonts)<br>
 ## =================================================
 ## 一些问题
 * Q：有些特殊符号为什么显示不出来？<br>
