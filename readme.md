@@ -12,7 +12,7 @@
 * 写入脚本保存<br>`notepad $profile`<br>
 ## 第三步~安装nerd或powerline字体
 * 这两种字体均在github上开源，楼主使用的是DejaVuSansMono Nerd Font或Cousine Nerd Font，这两套字体支持的图标比较全。
-* <br>[nerd字体](https://github.com/ryanoasis/nerd-fonts)<br>[powerline字体](https://github.com/powerline/fonts)<br>
+* [nerd字体](https://github.com/ryanoasis/nerd-fonts)<br>[powerline字体](https://github.com/powerline/fonts)<br>
 ## =================================================
 ## 一些问题
 * Q：有些特殊符号为什么显示不出来？<br>
